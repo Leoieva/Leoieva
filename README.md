@@ -1,9 +1,9 @@
 ### Olá! Sou Leonardo Ieva! 👋
-Espero que aprecie os meus projetos e até aprenda algo novo! 
+Logo iniciarei os meu mini projetos com tudo documentado, pois por enquanto sigo nos estudos teóricos! 
 
-- 🥳 20 years.
-- :brazil:  Brazil.
-- 🎓 2 out of 4 of year of Computer Science.
-- 👨‍💻 Cybersecurtiy lover;
-- 💬 Estudando inglês (intermediário).
+- 🥳 20 anos
+- 🎓 2 de 4 anos de Computer Science
+- 👨‍💻 Apaixonado por Cybersecurtiy
+- 💬 Estudando inglês (intermediário)
+
 
