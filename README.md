@@ -1,7 +1,9 @@
-### Olá! Me chamo Leonardo Ieva (ieva, não Leva kk) 👋
+### Olá! Sou Leonardo Ieva! 👋
+Espero que aprecie os meus projetos e até aprenda algo novo! 
 
-- 🥳 Sou 2 anos mais velho que o C#.
-- 🎓 Estou no 2º Semestre de Ciência da Computação.
-- 👨‍💻 Amante de User Experience (UX).
+- 🥳 20 years.
+- :brazil: Brazil.
+- 🎓 2 out of 4 of year of Computer Science.
+- 👨‍💻 Cybersecurtiy lover;
 - 💬 Estudando inglês (intermediário).
 
