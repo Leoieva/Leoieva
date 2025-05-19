@@ -9,5 +9,5 @@
 
 <div>
   <a href="https://beacons.ai/Leoieva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoIeva&size_weight=0.5&count_weight=0.5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoieva&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 </div>
