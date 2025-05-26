@@ -32,34 +32,22 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leoieva/Leoieva/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+### Connect Me :D
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Connect Me.. (●'◡'●)
-
-<a href="https://www.linkedin.com/in/matheushenrique-ofc/">
+<a href="https://www.linkedin.com/in/leonardo-araujo-ieva-955817199/">
   <img height="35" src="./assets/social-media/linkedin.png">
 </a>
 
 <br>
-<a href="mailto:matheustennant@gmail.com">
+<a href="leonardoieva3@gmail.com">
   <img height="25" src="./assets/social-media/gmail.png">
 </a>
 
 <br>
-<a href="https://www.instagram.com/math_henrique.ofc/">
+<a href="https://www.instagram.com/leoieva7/">
   <img height="35" src="./assets/social-media/instagram.png">
 </a>
 
-[![Followers](https://img.shields.io/github/followers/matheushenrique129.svg?style=social&label=Follow)](https://github.com/matheushenrique129)
-<img src="./assets/cat.gif" width="60" height="60"/>
-
 <br>
 
-<div align="center">
-  <p align="center"><b>Visits to my Profile :detective:</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p> 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb30&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5EC212&height=120&section=footer"/>
