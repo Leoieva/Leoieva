@@ -5,9 +5,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leoieva&bg_color=0d1117&color=ffffff&line=00fa04&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Leoieva&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=15&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Leoieva&bg_color=90,3B8800,2A5E02&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=5EC212&&border_radius=15&count_private=true&show_icons=true&include_all_commits=true"/>
   
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoieva&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoieva&bg_color=90,3B8800,2A5E02&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=5EC212&&border_radius=20&count_private=true"/>
 </div>
   
 &nbsp;
